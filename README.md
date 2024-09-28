@@ -9,11 +9,39 @@ O OSINT Cerrado é mais um repositório colaborativo dedicado à coleta e análi
 
 ## Sumário
 
+- [Redes Sociais](#redes_sociais)
+  - [Redes sociais Brasil](#rsb)
 - [Infraestrutura de Transporte](#infraestrutura-de-transporte)
   - [Aeroportos](#aeroportos)
   - [Mobilidade Urbana e Transporte Público](#mobilidade-urbana-e-transporte-publico)
 
 ---
+
+## Redes Sociais <a name="redes_sociais"></a>
+#### Principais redes sociais utilizadas no Brasil
+
+Lista das principais e mais populares redes sociais utilizadas atualmente no Brasil.
+<details>
+  <summary>Lista de Redes Sociais</summary>
+| Rede Social          | Descrição                                              | Tipo de Uso                        | Público-Alvo                  |
+|----------------------|--------------------------------------------------------|------------------------------------|-------------------------------|
+| **WhatsApp**          | Aplicativo de mensagens instantâneas                   | Comunicação, Grupos, Negócios      | Geral                         |
+| **Instagram**         | Rede de compartilhamento de fotos e vídeos             | Entretenimento, Marketing, Vendas  | Jovens e Adultos              |
+| **Facebook**          | Rede social de compartilhamento de conteúdo            | Notícias, Grupos, Comunicação      | Adultos e Idosos              |
+| **TikTok**            | Plataforma de vídeos curtos e entretenimento           | Entretenimento, Marketing, Criadores | Jovens e Adolescentes        |
+| **YouTube**           | Plataforma de vídeos e streaming                       | Educação, Entretenimento, Negócios | Geral                         |
+| **Twitter (X)**       | Rede de microblogging                                  | Notícias, Discussões, Debates      | Jornalistas, Políticos, Público Geral |
+| **LinkedIn**          | Rede profissional de networking                        | Networking, Recrutamento, Negócios | Profissionais e Executivos    |
+| **Telegram**          | Aplicativo de mensagens instantâneas                   | Grupos, Comunicação, Conteúdo      | Jovens, Adultos, Tecnologia   |
+| **Pinterest**         | Plataforma de compartilhamento de ideias visuais       | Inspiração, Negócios, Hobbies      | Criativos, Profissionais      |
+| **Kwai**              | Plataforma de vídeos curtos, semelhante ao TikTok      | Entretenimento, Vídeos virais      | Jovens e Adultos              |
+| **BeReal**            | Rede social para compartilhamento espontâneo de fotos  | Autenticidade, Entretenimento      | Jovens                        |
+| **Snapchat**          | Aplicativo de mensagens com foco em fotos e vídeos curtos | Entretenimento, Comunicação      | Adolescentes e Jovens         |
+| **Twitch**            | Plataforma de streaming ao vivo, principalmente de games | Streaming, Entretenimento        | Gamers, Jovens                |
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+</details>
+
 
 ## Infraestrutura de Transporte <a name="infraestrutura-de-transporte"></a>
 
@@ -94,6 +122,8 @@ Aqui você encontra uma lista dos principais aeroportos do Brasil, organizada po
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 </details>
+
+
 
 ### Mobilidade Urbana e Transporte Público  🚍🚉 <a name="mobilidade-urbana-e-transporte-publico"></a>
 #### Fontes para Acompanhamento de Transportes Públicos no Brasil
