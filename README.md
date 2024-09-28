@@ -7,21 +7,24 @@
 # 0sint Cerrado
 O OSINT Cerrado é mais um repositório colaborativo dedicado à coleta e análise de informações de Inteligência de Fontes Abertas (OSINT). Inspirado pelo Projeto OSINT Brazuca, o OSINT Cerrado busca expandir a base de dados de fontes de pesquisa e coleta de informações em fontes abertas voltadas para o cenário brasileiro.
 
+## Sumário
 
-# Sumário
+- [Infraestrutura de Transporte](#infraestrutura-de-transporte)
+  - [Aeroportos](#aeroportos)
+  - [Mobilidade Urbana e Transporte Público](#mobilidade-urbana-e-transporte-publico)
 
-- [Aeroportos](#aeroportos)
-- [Mobilidade Urbana](#mobilidade-urbana)
+---
 
+## Infraestrutura de Transporte <a name="infraestrutura-de-transporte"></a>
 
+### Aeroportos <a name="aeroportos"></a>
+#### Principais Aeroportos Brasileiros
 
-## Aeroportos  <a name="aeroportos"></a>
+Aqui você encontra uma lista dos principais aeroportos do Brasil, organizada por região geográfica e classificada em aeroportos regionais e internacionais.
 
-## Lista dos principais aeroportos brasileiros
 
 <details>
-<summary>Aeroportos</summary>
-
+  <summary>Clique para expandir a lista de aeroportos</summary>
 
 | Nome                                                                                     | Cidade/Estado                | Região Geográfica | Tipo         |
 |------------------------------------------------------------------------------------------|------------------------------|-------------------|--------------|
@@ -88,12 +91,22 @@ O OSINT Cerrado é mais um repositório colaborativo dedicado à coleta e análi
 | Aeroporto Internacional de Campo Grande - Campo Grande (CGR)                          | Campo Grande                 | Centro-Oeste     | Internacional |
 | Aeroporto de Corumbá - Corumbá (CMG)                                                  | Corumbá                     | Centro-Oeste     | Regional      |
 | Aeroporto de Dourados - Dourados (DOU)                                                | Dourados                    | Centro-Oeste     | Regional      |
-----------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
 </details>
 
-<details>
-<summary>Transporte Público</summary>
+### Mobilidade Urbana e Transporte Público <a name="mobilidade-urbana-e-transporte-publico"></a>
+#### Fontes para Acompanhamento de Transportes Públicos no Brasil
 
-- https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-Brazil
-- https://www.metro.sp.gov.br/
-- https://www.cptm.sp.gov.br/
+Encontre aqui links úteis para monitorar o transporte público nas principais cidades brasileiras, incluindo metrô, ônibus e outros meios de transporte urbano.
+
+<details>
+  <summary>Clique para acessar fontes sobre transporte público</summary>
+
+- [Moovit - Transporte Público no Brasil](https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-Brazil)
+- [Metrô de São Paulo](https://www.metro.sp.gov.br/)
+- [Companhia Paulista de Trens Metropolitanos (CPTM)](https://www.cptm.sp.gov.br/)
+</details>
+
+---
+
