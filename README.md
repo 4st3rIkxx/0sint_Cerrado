@@ -14,6 +14,8 @@ O OSINT Cerrado é mais um repositório colaborativo dedicado à coleta e análi
 - [Infraestrutura de Transporte](#infraestrutura-de-transporte)
   - [Aeroportos](#aeroportos)
   - [Mobilidade Urbana e Transporte Público](#mobilidade-urbana-e-transporte-publico)
+- [Turismo](#turismo)
+  -[Pontos Turísticos](#pontos)
 
 ---
 
@@ -44,12 +46,31 @@ Lista das principais e mais populares redes sociais utilizadas atualmente no Bra
 <details>
   <summary>Redes Sociais - Buscas </summary>
 
-## Facebook, Instagram, Linkedin  
+## Facebook, Instagram, TikTok, Linkedin  
 - [Search People](https://freepeoplesearchtool.com/#gsc.tab=0)
+- [Linkedin data extractor](https://ollie-boyd.github.io/Linkedin-post-timestamp-extractor/)
 - [Facebook ID](https://lookup-id.com/)
 - [Comment Picker - Instagram](https://commentpicker.com/instagram-username.php)
 - [Face Checker](https://facecheck.id/pt)
 - [HighSocial - TikTok](https://www.highsocial.com/pt-br/find-tiktok-user-id/)
+- [TikTok data extractor](https://bellingcat.github.io/tiktok-timestamp/)
+- [TikTok-Trends](https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?from=001114)
+- [Kik-Usernames](https://kikusernames.com/country/BR?page=1)
+
+## Telegram
+- [Telegago](https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg#gsc.tab=0)
+- [Telegram Search Engine](https://xtea.io/ts_en.html#gsc.tab=0)
+- [Telegram Store](https://pt.telegram-store.com/)
+- [TelegramDB](https://www.telegramdb.org/)
+- [Telegram Channels](https://telegramchannels.me/)
+- [TGRAM Search](https://pt.tgramsearch.com/)
+- [TG-ME](https://www.tg-me.com/br)
+- [Universal Bot](https://t.me/UniversalSearchEasyBot)
+
+## WhatsApp
+- [Grupos de Whatts](https://www.gruposdewhatss.com.br/)
+- [Link de Grupo](https://linkdegrupo.com.br/)
+- [Whats de Grupo](https://whatsdegrupo.com/)
 
 </details>
 
@@ -150,5 +171,97 @@ Encontre aqui links úteis para monitorar o transporte público nas principais c
 - [Companhia Paulista de Trens Metropolitanos (CPTM)](https://www.cptm.sp.gov.br/)
 </details>
 
+## Turismo <a name="turismo"></a>
+#### Principais pontos turísticos do Brasil
+
+Lista dos pontos turísticos do Brasil.
+<details>
+  <summary>Pontos Turísticos</summary>
+| Nome                                         | Cidade                      | Estado                  | Região Geográfica     |
+|----------------------------------------------|----------------------------|-------------------------|-----------------------|
+| Cristo Redentor                              | Rio de Janeiro             | Rio de Janeiro          | Sudeste               |
+| Pão de Açúcar                                | Rio de Janeiro             | Rio de Janeiro          | Sudeste               |
+| Cataratas do Iguaçu                         | Foz do Iguaçu             | Paraná                  | Sul                   |
+| Parque Nacional da Chapada dos Veadeiros    | Alto Paraíso de Goiás      | Goiás                   | Centro-Oeste          |
+| Amazônia                                     | Manaus                     | Amazonas                | Norte                 |
+| Pelourinho                                   | Salvador                   | Bahia                   | Nordeste              |
+| Praia do Forte                               | Mata de São João           | Bahia                   | Nordeste              |
+| Ilha Grande                                  | Angra dos Reis             | Rio de Janeiro          | Sudeste               |
+| Bonito                                       | Bonito                     | Mato Grosso do Sul     | Centro-Oeste          |
+| Lençóis Maranhenses                          | Barreirinhas               | Maranhão                | Nordeste              |
+| Fernando de Noronha                          | Fernando de Noronha        | Pernambuco              | Nordeste              |
+| Pantanal                                     | Corumbá                    | Mato Grosso do Sul     | Centro-Oeste          |
+| Parque Nacional de Jericoacoara             | Jericoacoara               | Ceará                   | Nordeste              |
+| Centro Histórico de Ouro Preto               | Ouro Preto                 | Minas Gerais            | Sudeste               |
+| Beto Carrero World                           | Penha                      | Santa Catarina          | Sul                   |
+| Museu do Amanhã                              | Rio de Janeiro             | Rio de Janeiro          | Sudeste               |
+| Parque Ibirapuera                           | São Paulo                  | São Paulo               | Sudeste               |
+| Foz do Iguaçu                               | Foz do Iguaçu             | Paraná                  | Sul                   |
+| Teatro Amazonas                              | Manaus                     | Amazonas                | Norte                 |
+| Serra Gaúcha                                 | Gramado                    | Rio Grande do Sul      | Sul                   |
+| Parque Nacional da Serra dos Órgãos         | Petrópolis                 | Rio de Janeiro          | Sudeste               |
+| Praia de Copacabana                          | Rio de Janeiro             | Rio de Janeiro          | Sudeste               |
+| Parque Nacional do Itatiaia                  | Itatiaia                  | Minas Gerais            | Sudeste               |
+| Chapada Diamantina                           | Lençóis                    | Bahia                   | Nordeste              |
+| Parque Nacional da Serra da Capivara        | São Raimundo Nonato       | Piauí                   | Nordeste              |
+| Parque Nacional de Aparados da Serra        | Cambará do Sul            | Rio Grande do Sul      | Sul                   |
+| Ilha do Cardoso                              | Cananéia                  | São Paulo               | Sudeste               |
+| Parque Nacional de Superagüi                | Superagüi                 | Paraná                  | Sul                   |
+| Parque Nacional de Brasília                   | Brasília                   | Distrito Federal        | Centro-Oeste          |
+| Museu de Arte de São Paulo                  | São Paulo                  | São Paulo               | Sudeste               |
+| Parque Nacional da Tijuca                    | Rio de Janeiro             | Rio de Janeiro          | Sudeste               |
+| Catedral de Brasília                         | Brasília                   | Distrito Federal        | Centro-Oeste          |
+| Roda Gigante de São Paulo                    | São Paulo                  | São Paulo               | Sudeste               |
+| Parque Nacional da Serra dos Órgãos         | Petrópolis                 | Rio de Janeiro          | Sudeste               |
+| Museu Nacional                                | Rio de Janeiro             | Rio de Janeiro          | Sudeste               |
+| Porto de Galinhas                            | Ipojuca                    | Pernambuco              | Nordeste              |
+| Parque Nacional da Chapada dos Guimarães    | Chapada dos Guimarães     | Mato Grosso             | Centro-Oeste          |
+| Museu da Língua Portuguesa                   | São Paulo                  | São Paulo               | Sudeste               |
+| Praia de Jericoacoara                        | Jericoacoara               | Ceará                   | Nordeste              |
+| Parque Nacional de Jericoacoara             | Jericoacoara               | Ceará                   | Nordeste              |
+| Parque Estadual de Vila Velha               | Vila Velha                | Espírito Santo          | Sudeste               |
+| Parque Nacional da Serra do Cipó            | Serra do Cipó             | Minas Gerais            | Sudeste               |
+| Parque Nacional do Iguaçu                   | Foz do Iguaçu             | Paraná                  | Sul                   |
+| Parque Nacional de Catimbau                 | Buíque                     | Pernambuco              | Nordeste              |
+| Parque Nacional da Serra da Canastra        | São Roque de Minas        | Minas Gerais            | Sudeste               |
+| Parque Nacional de São Joaquim              | São Joaquim               | Santa Catarina          | Sul                   |
+| Parque Nacional do Pantanal                 | Poconé                     | Mato Grosso do Sul     | Centro-Oeste          |
+| Parque Estadual da Serra do Mar             | São Paulo                  | São Paulo               | Sudeste               |
+| Parque Nacional do Caparaó                  | Dores do Rio Preto        | Minas Gerais            | Sudeste               |
+| Parque Nacional de Brasília                  | Brasília                   | Distrito Federal        | Centro-Oeste          |
+| Parque Estadual do Ibitipoca                | Lima Duarte               | Minas Gerais            | Sudeste               |
+| Parque Estadual do Rio Doce                 | Linhares                  | Espírito Santo          | Sudeste               |
+| Parque Nacional do Monte Roraima            | Roraima                   | Roraima                 | Norte                 |
+| Parque Nacional da Serra do Sudeste         | Conservatória             | Rio de Janeiro          | Sudeste               |
+| Parque Estadual da Pedra Branca             | Rio de Janeiro             | Rio de Janeiro          | Sudeste               |
+| Parque Nacional de Anavilhanas              | Novo Airão                | Amazonas                | Norte                 |
+| Parque Nacional da Chapada dos Guimarães    | Chapada dos Guimarães     | Mato Grosso             | Centro-Oeste          |
+| Parque Nacional da Serra da Capivara        | São Raimundo Nonato       | Piauí                   | Nordeste              |
+| Parque Nacional de Jericoacoara             | Jericoacoara               | Ceará                   | Nordeste              |
+| Parque Nacional do Itatiaia                 | Itatiaia                  | Minas Gerais            | Sudeste               |
+| Parque Nacional da Serra dos Órgãos         | Petrópolis                 | Rio de Janeiro          | Sudeste               |
+| Parque Nacional da Chapada dos Veadeiros    | Alto Paraíso de Goiás     | Goiás                   | Centro-Oeste          |
+| Parque Nacional da Tijuca                    | Rio de Janeiro             | Rio de Janeiro          | Sudeste               |
+| Parque Estadual de Vila Velha               | Vila Velha                | Espírito Santo          | Sudeste               |
+| Parque Nacional da Serra da Canastra        | São Roque de Minas        | Minas Gerais            | Sudeste               |
+| Parque Nacional do Pantanal                 | Poconé                     | Mato Grosso do Sul     | Centro-Oeste          |
+| Parque Nacional de Superagüi                | Superagüi                 | Paraná                  | Sul                   |
+| Parque Nacional da Chapada dos Guimarães    | Chapada dos Guimarães     | Mato Grosso             | Centro-Oeste          |
+| Parque Nacional da Serra do Cipó            | Serra do Cipó             | Minas Gerais            | Sudeste               |
+| Parque Nacional do Iguaçu                   | Foz do Iguaçu             | Paraná                  | Sul                   |
+| Parque Estadual do Ibitipoca                | Lima Duarte               | Minas Gerais            | Sudeste               |
+| Parque Nacional da Tijuca                    | Rio de Janeiro             | Rio de Janeiro          | Sudeste               |
+| Parque Nacional de Brasília                  | Brasília                   | Distrito Federal        | Centro-Oeste          |
+| Parque Nacional do Caparaó                  | Dores do Rio Preto        | Minas Gerais            | Sudeste               |
+| Parque Nacional da Serra da Canastra        | São Roque de Minas        | Minas Gerais            | Sudeste               |
+| Parque Nacional da Serra dos Órgãos         | Petrópolis                 | Rio de Janeiro          | Sudeste               |
+| Parque Nacional do Pantanal                 | Poconé                     | Mato Grosso do Sul     | Centro-Oeste          |
+| Parque Nacional da Serra do Cipó            | Serra do Cipó             | Minas Gerais            | Sudeste               |
+| Parque Estadual da Pedra Branca             | Rio de Janeiro             | Rio de Janeiro          | Sudeste               |
+| Parque Estadual do Rio Doce                 | Linhares                  | Espírito Santo          | Sudeste               |
+| Parque Nacional de Anavilhanas              | Novo Airão                | Amazonas                | Norte                 |
+-----------------------------------------------------------------------------------------------------------------------------
+
+</details>
 ---
 
