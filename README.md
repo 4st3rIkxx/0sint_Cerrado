@@ -17,8 +17,8 @@ O OSINT Cerrado é mais um repositório colaborativo dedicado à coleta e análi
 
 ## Infraestrutura de Transporte <a name="infraestrutura-de-transporte"></a>
 
-### Aeroportos <a name="aeroportos"></a>
-#### Principais Aeroportos Brasileiros🛬
+### Aeroportos 🛬 <a name="aeroportos"></a>
+#### Principais Aeroportos Brasileiros
 
 Aqui você encontra uma lista dos principais aeroportos do Brasil, organizada por região geográfica e classificada em aeroportos regionais e internacionais.
 
@@ -95,8 +95,8 @@ Aqui você encontra uma lista dos principais aeroportos do Brasil, organizada po
 
 </details>
 
-### Mobilidade Urbana e Transporte Público <a name="mobilidade-urbana-e-transporte-publico"></a>
-#### Fontes para Acompanhamento de Transportes Públicos no Brasil🚍🚉
+### Mobilidade Urbana e Transporte Público  🚍🚉 <a name="mobilidade-urbana-e-transporte-publico"></a>
+#### Fontes para Acompanhamento de Transportes Públicos no Brasil
 
 Encontre aqui links úteis para monitorar o transporte público nas principais cidades brasileiras, incluindo metrô, ônibus e outros meios de transporte urbano.
 
