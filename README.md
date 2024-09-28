@@ -23,6 +23,7 @@ O OSINT Cerrado é mais um repositório colaborativo dedicado à coleta e análi
 Lista das principais e mais populares redes sociais utilizadas atualmente no Brasil.
 <details>
   <summary>Lista de Redes Sociais</summary>
+
 | Rede Social          | Descrição                                              | Tipo de Uso                        | Público-Alvo                  |
 |----------------------|--------------------------------------------------------|------------------------------------|-------------------------------|
 | **WhatsApp**          | Aplicativo de mensagens instantâneas                   | Comunicação, Grupos, Negócios      | Geral                         |
@@ -38,7 +39,7 @@ Lista das principais e mais populares redes sociais utilizadas atualmente no Bra
 | **BeReal**            | Rede social para compartilhamento espontâneo de fotos  | Autenticidade, Entretenimento      | Jovens                        |
 | **Snapchat**          | Aplicativo de mensagens com foco em fotos e vídeos curtos | Entretenimento, Comunicação      | Adolescentes e Jovens         |
 | **Twitch**            | Plataforma de streaming ao vivo, principalmente de games | Streaming, Entretenimento        | Gamers, Jovens                |
------------------------------------------------------------------------------------------------------------------------------------------
+
 
 </details>
 
