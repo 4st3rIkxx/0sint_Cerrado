@@ -15,8 +15,9 @@ O OSINT Cerrado é mais um repositório colaborativo dedicado à coleta e análi
 
 
  ## Lista dos principais aeroportos brasileiros <a name="aeroportos"></a>
-
+<details>
 <summary> Aeroportos </summary>
+
 
 | Nome                                                                                     | Cidade/Estado                | Região Geográfica | Tipo         |
 |------------------------------------------------------------------------------------------|------------------------------|-------------------|--------------|
@@ -83,3 +84,5 @@ O OSINT Cerrado é mais um repositório colaborativo dedicado à coleta e análi
 | Aeroporto Internacional de Campo Grande - Campo Grande (CGR)                          | Campo Grande                 | Centro-Oeste     | Internacional |
 | Aeroporto de Corumbá - Corumbá (CMG)                                                  | Corumbá                     | Centro-Oeste     | Regional      |
 | Aeroporto de Dourados - Dourados (DOU)                                                | Dourados                    | Centro-Oeste     | Regional      |
+
+</details>
