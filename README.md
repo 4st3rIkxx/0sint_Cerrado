@@ -152,7 +152,7 @@ Aqui você encontra uma lista dos principais aeroportos do Brasil, organizada po
 | Aeroporto Internacional de Campo Grande - Campo Grande (CGR)                          | Campo Grande                 | Centro-Oeste     | Internacional |
 | Aeroporto de Corumbá - Corumbá (CMG)                                                  | Corumbá                     | Centro-Oeste     | Regional      |
 | Aeroporto de Dourados - Dourados (DOU)                                                | Dourados                    | Centro-Oeste     | Regional      |
----------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------
 
 </details>
 
@@ -177,6 +177,7 @@ Encontre aqui links úteis para monitorar o transporte público nas principais c
 Lista dos pontos turísticos do Brasil.
 <details>
   <summary>Pontos Turísticos</summary>
+  
 | Nome                                         | Cidade                      | Estado                  | Região Geográfica     |
 |----------------------------------------------|----------------------------|-------------------------|-----------------------|
 | Cristo Redentor                              | Rio de Janeiro             | Rio de Janeiro          | Sudeste               |
@@ -260,7 +261,6 @@ Lista dos pontos turísticos do Brasil.
 | Parque Estadual da Pedra Branca             | Rio de Janeiro             | Rio de Janeiro          | Sudeste               |
 | Parque Estadual do Rio Doce                 | Linhares                  | Espírito Santo          | Sudeste               |
 | Parque Nacional de Anavilhanas              | Novo Airão                | Amazonas                | Norte                 |
------------------------------------------------------------------------------------------------------------------------------
 
 </details>
 ---
