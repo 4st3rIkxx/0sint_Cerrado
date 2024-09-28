@@ -35,11 +35,9 @@ Lista das principais e mais populares redes sociais utilizadas atualmente no Bra
 | **LinkedIn**          | Rede profissional de networking                        | Networking, Recrutamento, Negócios | Profissionais e Executivos    |
 | **Telegram**          | Aplicativo de mensagens instantâneas                   | Grupos, Comunicação, Conteúdo      | Jovens, Adultos, Tecnologia   |
 | **Pinterest**         | Plataforma de compartilhamento de ideias visuais       | Inspiração, Negócios, Hobbies      | Criativos, Profissionais      |
-| **Kwai**              | Plataforma de vídeos curtos, semelhante ao TikTok      | Entretenimento, Vídeos virais      | Jovens e Adultos 
-
+| **Kwai**              | Plataforma de vídeos curtos, semelhante ao TikTok      | Entretenimento, Vídeos virais      | Jovens e Adultos              |
 | **Snapchat**          | Aplicativo de mensagens com foco em fotos e vídeos curtos | Entretenimento, Comunicação      | Adolescentes e Jovens         |
 | **Twitch**            | Plataforma de streaming ao vivo, principalmente de games | Streaming, Entretenimento        | Gamers, Jovens                |
-
 
 </details>
 
