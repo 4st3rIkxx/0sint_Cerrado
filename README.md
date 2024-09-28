@@ -41,6 +41,19 @@ Lista das principais e mais populares redes sociais utilizadas atualmente no Bra
 
 </details>
 
+<details>
+  <summary>Redes Sociais - Buscas </summary>
+
+## Facebook, Instagram, Linkedin  
+- [Search People](https://freepeoplesearchtool.com/#gsc.tab=0)
+- [Facebook ID](https://lookup-id.com/)
+- [Comment Picker - Instagram](https://commentpicker.com/instagram-username.php)
+- [Face Checker](https://facecheck.id/pt)
+- [HighSocial - TikTok](https://www.highsocial.com/pt-br/find-tiktok-user-id/)
+
+</details>
+
+
 
 ## Infraestrutura de Transporte <a name="infraestrutura-de-transporte"></a>
 
