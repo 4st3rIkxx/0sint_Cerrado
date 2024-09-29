@@ -11,12 +11,15 @@ O OSINT Cerrado é mais um repositório colaborativo dedicado à coleta e análi
 
 - [Redes Sociais](#redes_sociais)
   - [Redes sociais Brasil](#rsb)
+- [Empresas](#empresas)
+- [Mapas](#mapas)
 - [Infraestrutura de Transporte](#infraestrutura-de-transporte)
   - [Aeroportos](#aeroportos)
   - [Mobilidade Urbana e Transporte Público](#mobilidade-urbana-e-transporte-publico)
 - [Turismo](#turismo)
   - [Pontos Turísticos](#pontos)
-
+- [Updates](#updates)
+- [Créditos](#creditos)
 ---
 
 ## Redes Sociais <a name="redes_sociais"></a>
@@ -74,6 +77,27 @@ Lista das principais e mais populares redes sociais utilizadas atualmente no Bra
 
 </details>
 
+## Empresas & Negócios <a name="empresas"></a>
+- [brazilyello](https://www.brazilyello.com/)
+- [Convision](https://www.conversion.com.br/blog/ranking-ecommerces/) 
+- [Econodata](https://www.econodata.com.br/empresas/todo-brasil)
+- [CNPJÁ](https://cnpja.com/)
+- [Consulta CNPJ](https://consultacnpj.com/)
+- [JUCESS - ESPÍRITO SANTO](https://jucees.es.gov.br/consulta-empresas)
+- [Reclame Aqui](https://www.reclameaqui.com.br/)
+
+
+## Mapas <a name="mapas"></a>
+- [Windy](https://www.windy.com/)
+- [ClimateTrace](https://climatetrace.org/)
+- [AllTrails](https://www.alltrails.com/)
+- [GEOINT](https://cse.google.com/cse?cx=015328649639895072395:sbv3zyxzmji#gsc.tab=0)
+- [STRAVA MAPS](https://www.strava.com/maps/)
+- [Yandex Maps](https://yandex.com/maps/?ll=10.854186%2C49.182076&z=4)
+- [Mapillary](https://www.mapillary.com/)
+- [LIVE UAMAP](https://brazil.liveuamap.com/)
+- [Open Street Map](https://www.openstreetmap.org/)
+- [Radio Garden](https://radio.garden/)
 
 
 ## Infraestrutura de Transporte <a name="infraestrutura-de-transporte"></a>
@@ -264,4 +288,15 @@ Lista dos pontos turísticos do Brasil.
 
 </details>
 ---
+
+## Updates 🔄 <a name="updates"></a>
+O repositório que está atualmente em construção🏗️
+Toda colaboração é bem vinda.
+
+---
+
+## Créditos 👏 <a name="creditos"></a>
+Um salve para toda a comunidade do OSINT Brazuca, vocês são tops✌️
+Sigam: - [OSINT BRAZUCA](https://github.com/osintbrazuca)
+<br>
 
