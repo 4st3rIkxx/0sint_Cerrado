@@ -30,9 +30,13 @@ Esta categoria concentra-se na pesquisa de árvores genealógicas, linhagens fam
 
 ### Acervos e Instituições Históricas 🏛️
 - [Associação Brasileira de Pesquisadores de História e Genealogia](https://www.asbrap.org.br/)
+- [Museu Imperial do Brasil](https://museuimperial.museus.gov.br/)
 - [Brava Gente Brasileira](https://sites.google.com/view/brava-gente-brasileira/home/quem-somos?authuser=0)
 - [São Paulo & Sul Minas Gerais](http://www.projetocompartilhar.org/)
 - [Colégio Brasileiro de Genealogia](https://cbg.org.br/)
+- [BNDIGITAL - ACERVO](https://bndigital.bn.gov.br/)
+- [SlaveSocieties.org](https://www.slavesocieties.org/documentsearch)
+- [Projeto Resgate - Acervo](https://resgate.bn.gov.br/docreader/docmulti.aspx?bib=resgate&pagfis=)
 
 ### Genealogia Regional no Brasil 🇧🇷
 - [Genealogia Paulistana](http://www.arvore.net.br/Paulistana/)
@@ -42,6 +46,9 @@ Esta categoria concentra-se na pesquisa de árvores genealógicas, linhagens fam
 ### Pesquisa sobre Imigrantes 🌍
 - [Museu da Imigração - São Paulo](https://museudaimigracao.org.br/)
 - [Antepassados - Consulado Alemão no Brasil](https://brasil.diplo.de/br-pt/servicos/nacionalidade/antepassados/2602086?openAccordionId=item-2602088-3-panel)
+- [Biblioteca Genealogica de Lisboa - Portugal](https://biblioteca-genealogica-lisboa.org/)
+- [Antenati - Itália](https://antenati.cultura.gov.it/?lang=pt-pt)
+- [CISEI - Imigração Italiana](http://www.ciseionline.it/2012/index.asp)
 
 ### Plataformas de Pesquisa e Indexadores 💻
 - [FamilySearch](https://www.familysearch.org/)
@@ -51,6 +58,7 @@ Esta categoria concentra-se na pesquisa de árvores genealógicas, linhagens fam
 
 ### Comunidades e Grupos de Discussão 👥
 - [Genealogias do Sul do Brasil](https://www.facebook.com/groups/410651023032958/?locale=pt_BR)
+- [Genealogia BR](https://www.facebook.com/groups/GenealogiaBr/)
 
 ---
 
