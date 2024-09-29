@@ -9,6 +9,7 @@ O OSINT Cerrado é mais um repositório colaborativo dedicado à coleta e análi
 
 ## Sumário
 
+- [Genealogia](#genealogia)
 - [Redes Sociais](#redes_sociais)
   - [Redes sociais Brasil](#rsb)
 - [Empresas](#empresas)
@@ -21,6 +22,43 @@ O OSINT Cerrado é mais um repositório colaborativo dedicado à coleta e análi
 - [Updates](#updates)
 - [Créditos](#creditos)
 ---
+
+## Genealogia e Pesquisa Familiar 🌳👪 <a name="genealogia"></a>
+
+Esta categoria concentra-se na pesquisa de árvores genealógicas, linhagens familiares e registros históricos. Seu objetivo é reunir informações sobre ancestrais e traçar origens familiares utilizando fontes públicas e privadas. Facilitando o acesso a registros civis, documentos históricos, arquivos de cartórios e bases de dados genealógicas online. Essa categoria é essencial para investigações pessoais, processos legais, comprovações hereditárias e a reconstrução da história familiar.
+<br>
+
+### Acervos e Instituições Históricas 🏛️
+- [Associação Brasileira de Pesquisadores de História e Genealogia](https://www.asbrap.org.br/)
+- [Brava Gente Brasileira](https://sites.google.com/view/brava-gente-brasileira/home/quem-somos?authuser=0)
+- [São Paulo & Sul Minas Gerais](http://www.projetocompartilhar.org/)
+- [Colégio Brasileiro de Genealogia](https://cbg.org.br/)
+
+### Genealogia Regional no Brasil 🇧🇷
+- [Genealogia Paulistana](http://www.arvore.net.br/Paulistana/)
+- [Genealogia Pernambucana](https://www.genealogiapernambucana.com.br/default.asp)
+- [Arquivo Público do Estado de Santa Catarina](https://acervo.arquivopublico.sc.gov.br/index.php/genealogia)
+
+### Pesquisa sobre Imigrantes 🌍
+- [Museu da Imigração - São Paulo](https://museudaimigracao.org.br/)
+- [Antepassados - Consulado Alemão no Brasil](https://brasil.diplo.de/br-pt/servicos/nacionalidade/antepassados/2602086?openAccordionId=item-2602088-3-panel)
+
+### Plataformas de Pesquisa e Indexadores 💻
+- [FamilySearch](https://www.familysearch.org/)
+- [Geneanet](https://pt.geneanet.org/)
+- [MyHeritage](https://www.myheritage.com.br/)
+- [Arvore.net](http://www.arvore.net.br/)
+
+### Comunidades e Grupos de Discussão 👥
+- [Genealogias do Sul do Brasil](https://www.facebook.com/groups/410651023032958/?locale=pt_BR)
+
+---
+
+
+
+
+
+
 
 ## Redes Sociais 🌐 <a name="redes_sociais"></a>
 #### Principais redes sociais utilizadas no Brasil
@@ -85,6 +123,7 @@ Lista das principais e mais populares redes sociais utilizadas atualmente no Bra
 - [Consulta CNPJ](https://consultacnpj.com/)
 - [JUCESS - ESPÍRITO SANTO](https://jucees.es.gov.br/consulta-empresas)
 - [Reclame Aqui](https://www.reclameaqui.com.br/)
+- [MAPA OSC IPEA](https://mapaosc.ipea.gov.br/)
 
 
 ## Mapas 🌍 <a name="mapas"></a>
