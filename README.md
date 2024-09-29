@@ -287,6 +287,7 @@ Lista dos pontos turísticos do Brasil.
 | Parque Nacional de Anavilhanas              | Novo Airão                | Amazonas                | Norte                 |
 
 </details>
+
 ---
 
 ## Updates 🔄 <a name="updates"></a>
