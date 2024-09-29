@@ -177,6 +177,7 @@ Encontre aqui links úteis para monitorar o transporte público nas principais c
 Lista dos pontos turísticos do Brasil.
 <details>
    <summary>Pontos Turísticos</summary>
+  
 | Nome                                         | Cidade                      | Estado                  | Região Geográfica     |
 |----------------------------------------------|----------------------------|-------------------------|-----------------------|
 | Cristo Redentor                              | Rio de Janeiro             | Rio de Janeiro          | Sudeste               |
