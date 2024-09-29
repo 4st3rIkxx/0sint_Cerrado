@@ -291,12 +291,15 @@ Lista dos pontos turísticos do Brasil.
 
 ## Updates 🔄 <a name="updates"></a>
 O repositório que está atualmente em construção🏗️
+<br>
 Toda colaboração é bem vinda.
+</br>
 
----
+
 
 ## Créditos 👏 <a name="creditos"></a>
 Um salve para toda a comunidade do OSINT Brazuca, vocês são tops✌️
-Sigam: - [OSINT BRAZUCA](https://github.com/osintbrazuca)
 <br>
+Sigam: [OSINT BRAZUCA](https://github.com/osintbrazuca)
+</br>
 
