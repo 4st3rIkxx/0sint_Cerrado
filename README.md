@@ -15,7 +15,7 @@ O OSINT Cerrado é mais um repositório colaborativo dedicado à coleta e análi
   - [Aeroportos](#aeroportos)
   - [Mobilidade Urbana e Transporte Público](#mobilidade-urbana-e-transporte-publico)
 - [Turismo](#turismo)
-    -[Pontos Turísticos](#pontos)
+  - [Pontos Turísticos](#pontos)
 
 ---
 
@@ -176,7 +176,7 @@ Encontre aqui links úteis para monitorar o transporte público nas principais c
 
 Lista dos pontos turísticos do Brasil.
 <details>
-  
+   <summary>Pontos Turísticos</summary>
 | Nome                                         | Cidade                      | Estado                  | Região Geográfica     |
 |----------------------------------------------|----------------------------|-------------------------|-----------------------|
 | Cristo Redentor                              | Rio de Janeiro             | Rio de Janeiro          | Sudeste               |
