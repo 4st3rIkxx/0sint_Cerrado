@@ -22,7 +22,7 @@ O OSINT Cerrado é mais um repositório colaborativo dedicado à coleta e análi
 - [Créditos](#creditos)
 ---
 
-## Redes Sociais <a name="redes_sociais"></a>
+## Redes Sociais 🌐 <a name="redes_sociais"></a>
 #### Principais redes sociais utilizadas no Brasil
 
 Lista das principais e mais populares redes sociais utilizadas atualmente no Brasil.
@@ -77,7 +77,7 @@ Lista das principais e mais populares redes sociais utilizadas atualmente no Bra
 
 </details>
 
-## Empresas & Negócios <a name="empresas"></a>
+## Empresas & Negócios 🏢 <a name="empresas"></a>
 - [brazilyello](https://www.brazilyello.com/)
 - [Convision](https://www.conversion.com.br/blog/ranking-ecommerces/) 
 - [Econodata](https://www.econodata.com.br/empresas/todo-brasil)
@@ -87,7 +87,7 @@ Lista das principais e mais populares redes sociais utilizadas atualmente no Bra
 - [Reclame Aqui](https://www.reclameaqui.com.br/)
 
 
-## Mapas <a name="mapas"></a>
+## Mapas 🌍 <a name="mapas"></a>
 - [Windy](https://www.windy.com/)
 - [ClimateTrace](https://climatetrace.org/)
 - [AllTrails](https://www.alltrails.com/)
@@ -195,7 +195,7 @@ Encontre aqui links úteis para monitorar o transporte público nas principais c
 - [Companhia Paulista de Trens Metropolitanos (CPTM)](https://www.cptm.sp.gov.br/)
 </details>
 
-## Turismo <a name="turismo"></a>
+## Turismo ✈️ 🚢 <a name="turismo"></a>
 #### Principais pontos turísticos do Brasil
 
 Lista dos pontos turísticos do Brasil.
