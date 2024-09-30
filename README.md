@@ -338,7 +338,6 @@ Lista dos pontos turísticos do Brasil.
 
 ---
 
-<summary>Banco de Imagens 🖼️📷</summary>
 
 ### Banco de Imagens 🖼️📷 <a name="images"></a>
 
@@ -346,7 +345,8 @@ Esta categoria oferece acesso a bancos de imagens que permitem encontrar, verifi
 
 <details>
   
-#### 1. Bancos de Imagens Brasileiros 🇧🇷
+ <summary> Bancos de Imagens Brasileiros 🇧🇷 </summary>
+ 
 - [Pulsar Imagens](https://www.pulsarimagens.com.br/)
 - [BambooStock](https://bamboostock.net/)
 - [IBR Stock](https://www.ibrstock.com/)
@@ -357,7 +357,8 @@ Esta categoria oferece acesso a bancos de imagens que permitem encontrar, verifi
 
 <details>
   
-#### 2. Bancos de Imagens Internacionais 🌍
+<summary> Bancos de Imagens Internacionais 🌍</summary> 
+  
 - [Flickr.com](https://www.flickr.com/)
 - [Fotos Públicas](https://www.fotospublicas.com/)
 - [ArgosFoto](https://argosfoto.photoshelter.com/archive)
@@ -366,8 +367,8 @@ Esta categoria oferece acesso a bancos de imagens que permitem encontrar, verifi
 
 
 <details>
-
-#### 3. Imagens para Jornalismo e Imprensa 📰
+<summary> Imagens para Jornalismo e Imprensa 📰 </summary>
+  
 - [FolhaPress](https://folhapress.folha.com.br/)
 - [FotoArena](https://www.fotoarena.com.br/)
   
@@ -375,7 +376,8 @@ Esta categoria oferece acesso a bancos de imagens que permitem encontrar, verifi
 
 <details>
   
-#### 4. Arquivos Históricos e Culturais 🏛️
+<summary> Arquivos Históricos e Culturais 🏛️ </summary>
+
 - [Brasiliana Fotográfica](https://brasilianafotografica.bn.gov.br/)
 - [Instituto Moreira Salles](https://ims.com.br/)
   
@@ -384,7 +386,8 @@ Esta categoria oferece acesso a bancos de imagens que permitem encontrar, verifi
 
 <details>
 
-#### 5. Fontes Governamentais e Institucionais 🏢
+<summary> Fontes Governamentais e Institucionais 🏢 </summary>
+
 - [Banco de Imagens - Porto Alegre](https://bancodeimagens.portoalegre.rs.gov.br/)
 - [Rio Grande do Sul - Banco de Imagens](https://www.estado.rs.gov.br/banco-de-imagem)
 - [Municípios do Brasil - IBGE](https://mapasinterativos.ibge.gov.br/fotos/index.html)
