@@ -367,7 +367,7 @@ Esta categoria oferece acesso a bancos de imagens que permitem encontrar, verifi
 
 
 <details>
-<summary> Imagens para Jornalismo e Imprensa 📰 </summary>
+<summary> Jornalismo e Imprensa 📰 </summary>
   
 - [FolhaPress](https://folhapress.folha.com.br/)
 - [FotoArena](https://www.fotoarena.com.br/)
@@ -376,7 +376,7 @@ Esta categoria oferece acesso a bancos de imagens que permitem encontrar, verifi
 
 <details>
   
-<summary> Arquivos Históricos e Culturais 🏛️ </summary>
+<summary> Históricos e Culturais 🏛️ </summary>
 
 - [Brasiliana Fotográfica](https://brasilianafotografica.bn.gov.br/)
 - [Instituto Moreira Salles](https://ims.com.br/)
