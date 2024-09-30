@@ -148,15 +148,49 @@ Lista das principais e mais populares redes sociais utilizadas atualmente no Bra
 
 </details>
 
-## Empresas & Negócios 🏢 <a name="empresas"></a>
+<details>
+
+<summary>Empresas & Negócios 🏢</summary>
+
+### Empresas & Negócios 🏢 <a name="empresas"></a>
+<summary>Diretórios e Bases de Dados Empresariais 🗂️</summary>
+
 - [brazilyello](https://www.brazilyello.com/)
-- [Convision](https://www.conversion.com.br/blog/ranking-ecommerces/) 
 - [Econodata](https://www.econodata.com.br/empresas/todo-brasil)
 - [CNPJÁ](https://cnpja.com/)
 - [Consulta CNPJ](https://consultacnpj.com/)
-- [JUCESS - ESPÍRITO SANTO](https://jucees.es.gov.br/consulta-empresas)
+
+</details>
+
+<details>
+<summary>Rankings e E-commerces 📊</summary>
+
+- [Convision - Ranking de E-commerces](https://www.conversion.com.br/blog/ranking-ecommerces/)
+
+</details>
+
+<details>
+<summary>Órgãos Oficiais e Registros 🏛️</summary>
+
+- [JUCESS - Espírito Santo](https://jucees.es.gov.br/consulta-empresas)
+
+</details>
+
+<details>
+<summary>Avaliações de Empresas e Reputação 💬</summary>
+
 - [Reclame Aqui](https://www.reclameaqui.com.br/)
+
+</details>
+
+<details>
+<summary>Organizações da Sociedade Civil (OSC) 🏘️</summary>
+
 - [MAPA OSC IPEA](https://mapaosc.ipea.gov.br/)
+
+</details>
+
+</details>
 
 
 ## Mapas 🌍 <a name="mapas"></a>
