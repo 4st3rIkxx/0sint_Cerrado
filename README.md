@@ -399,7 +399,7 @@ Esta categoria oferece acesso a bancos de imagens que permitem encontrar, verifi
 ---
 
 ## Updates 🔄 <a name="updates"></a>
-O repositório que está atualmente em construção🏗️
+O repositório está atualmente em construção🏗️
 <br>
 Toda colaboração é bem vinda.
 </br>
