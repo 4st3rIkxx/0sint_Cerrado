@@ -343,7 +343,7 @@ O repositório que está atualmente em construção🏗️
 Toda colaboração é bem vinda.
 </br>
 
-
+mr_ofcodyx
 
 ## Créditos 👏 <a name="creditos"></a>
 Um salve para toda a comunidade do OSINT Brazuca, vocês são tops✌️
