@@ -148,11 +148,12 @@ Lista das principais e mais populares redes sociais utilizadas atualmente no Bra
 
 </details>
 
+---
+
 <details>
 
-<summary>Empresas & Negócios 🏢</summary>
-
 ### Empresas & Negócios 🏢 <a name="empresas"></a>
+
 <summary>Diretórios e Bases de Dados Empresariais 🗂️</summary>
 
 - [brazilyello](https://www.brazilyello.com/)
@@ -192,6 +193,7 @@ Lista das principais e mais populares redes sociais utilizadas atualmente no Bra
 
 </details>
 
+---
 
 ## Mapas 🌍 <a name="mapas"></a>
 - [Windy](https://www.windy.com/)
