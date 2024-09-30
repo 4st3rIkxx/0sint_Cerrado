@@ -338,6 +338,7 @@ Lista dos pontos turísticos do Brasil.
 
 ---
 
+<details>
 ### Banco de Imagens 🖼️📷 <a name="images"></a>
 Esta categoria oferece acesso a banco de imagens que permitem encontrar, verificar e analisar imagens disponíveis na internet. 
 
@@ -346,7 +347,19 @@ Esta categoria oferece acesso a banco de imagens que permitem encontrar, verific
 - [IBR Stock](https://www.ibrstock.com/)
 - [Brasil com S](https://www.brasilcoms.com.br/)
 - [Banco de Imagens - Porto Alegre](https://bancodeimagens.portoalegre.rs.gov.br/)
+- [Flickr.com](https://www.flickr.com/)
+- [Fotos Públicas](https://www.fotospublicas.com/)
+- [Imagem Brasil Galeria](https://imagembrasilgaleria.com.br/)
+- [Instituto Moreira Salles](https://ims.com.br/)
+- [ArgosFoto](https://argosfoto.photoshelter.com/archive)
+- [FolhaPress](https://folhapress.folha.com.br/)
+- [FotoArena](https://www.fotoarena.com.br/)
+- [Brasiliana Fotográfia](https://brasilianafotografica.bn.gov.br/)
+- [Programa Médicos Sem Fronteiras](https://www.msf.org.br/editorias/fotos/)
   
+
+  
+</details> 
 ---
 
 ## Updates 🔄 <a name="updates"></a>
