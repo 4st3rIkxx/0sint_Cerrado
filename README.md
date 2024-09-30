@@ -338,28 +338,61 @@ Lista dos pontos turísticos do Brasil.
 
 ---
 
-<details>
-### Banco de Imagens 🖼️📷 <a name="images"></a>
-Esta categoria oferece acesso a banco de imagens que permitem encontrar, verificar e analisar imagens disponíveis na internet. 
+<summary>Banco de Imagens 🖼️📷</summary>
 
+### Banco de Imagens 🖼️📷 <a name="images"></a>
+
+Esta categoria oferece acesso a bancos de imagens que permitem encontrar, verificar e analisar imagens disponíveis na internet, com foco em fontes brasileiras e internacionais.
+
+<details>
+  
+#### 1. Bancos de Imagens Brasileiros 🇧🇷
 - [Pulsar Imagens](https://www.pulsarimagens.com.br/)
 - [BambooStock](https://bamboostock.net/)
 - [IBR Stock](https://www.ibrstock.com/)
 - [Brasil com S](https://www.brasilcoms.com.br/)
-- [Banco de Imagens - Porto Alegre](https://bancodeimagens.portoalegre.rs.gov.br/)
+- [Imagem Brasil Galeria](https://imagembrasilgaleria.com.br/)
+  
+</details>
+
+<details>
+  
+#### 2. Bancos de Imagens Internacionais 🌍
 - [Flickr.com](https://www.flickr.com/)
 - [Fotos Públicas](https://www.fotospublicas.com/)
-- [Imagem Brasil Galeria](https://imagembrasilgaleria.com.br/)
-- [Instituto Moreira Salles](https://ims.com.br/)
 - [ArgosFoto](https://argosfoto.photoshelter.com/archive)
+  
+</details>
+
+
+<details>
+
+#### 3. Imagens para Jornalismo e Imprensa 📰
 - [FolhaPress](https://folhapress.folha.com.br/)
 - [FotoArena](https://www.fotoarena.com.br/)
-- [Brasiliana Fotográfia](https://brasilianafotografica.bn.gov.br/)
-- [Programa Médicos Sem Fronteiras](https://www.msf.org.br/editorias/fotos/)
   
+</details>
 
+<details>
   
-</details> 
+#### 4. Arquivos Históricos e Culturais 🏛️
+- [Brasiliana Fotográfica](https://brasilianafotografica.bn.gov.br/)
+- [Instituto Moreira Salles](https://ims.com.br/)
+  
+</details>
+
+
+<details>
+
+#### 5. Fontes Governamentais e Institucionais 🏢
+- [Banco de Imagens - Porto Alegre](https://bancodeimagens.portoalegre.rs.gov.br/)
+- [Rio Grande do Sul - Banco de Imagens](https://www.estado.rs.gov.br/banco-de-imagem)
+- [Municípios do Brasil - IBGE](https://mapasinterativos.ibge.gov.br/fotos/index.html)
+- [Programa Médicos Sem Fronteiras](https://www.msf.org.br/editorias/fotos/)
+- [OAB - Fotos](https://www.oab.org.br/banco-de-imagens)
+  
+</details>
+
 ---
 
 ## Updates 🔄 <a name="updates"></a>
