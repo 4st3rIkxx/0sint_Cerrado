@@ -83,7 +83,7 @@ Esta categoria concentra-se na pesquisa de árvores genealógicas, linhagens fam
 
 <details>
 
-<summary> Comunidades e Grupos de Discussão 👥</summery>
+<summary> Comunidades e Grupos de Discussão 👥</summary>
   
 - [Genealogias do Sul do Brasil](https://www.facebook.com/groups/410651023032958/?locale=pt_BR)
 - [Genealogia BR](https://www.facebook.com/groups/GenealogiaBr/)
