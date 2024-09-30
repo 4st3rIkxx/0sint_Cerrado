@@ -150,10 +150,11 @@ Lista das principais e mais populares redes sociais utilizadas atualmente no Bra
 
 ---
 
-<details>
+
 
 ### Empresas & Negócios 🏢 <a name="empresas"></a>
 
+<details>
 <summary>Diretórios e Bases de Dados Empresariais 🗂️</summary>
 
 - [brazilyello](https://www.brazilyello.com/)
@@ -188,8 +189,6 @@ Lista das principais e mais populares redes sociais utilizadas atualmente no Bra
 <summary>Organizações da Sociedade Civil (OSC) 🏘️</summary>
 
 - [MAPA OSC IPEA](https://mapaosc.ipea.gov.br/)
-
-</details>
 
 </details>
 
