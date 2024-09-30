@@ -29,7 +29,10 @@ O OSINT Cerrado é mais um repositório colaborativo dedicado à coleta e análi
 Esta categoria concentra-se na pesquisa de árvores genealógicas, linhagens familiares e registros históricos. Seu objetivo é reunir informações sobre ancestrais e traçar origens familiares utilizando fontes públicas e privadas. Facilitando o acesso a registros civis, documentos históricos, arquivos de cartórios e bases de dados genealógicas online. Essa categoria é essencial para investigações pessoais, processos legais, comprovações hereditárias e a reconstrução da história familiar.
 <br>
 
-### Acervos e Instituições Históricas 🏛️
+<details>
+
+<summary> Acervos e Instituições Históricas 🏛️</summary>
+
 - [Associação Brasileira de Pesquisadores de História e Genealogia](https://www.asbrap.org.br/)
 - [Museu Imperial do Brasil](https://museuimperial.museus.gov.br/)
 - [Brava Gente Brasileira](https://sites.google.com/view/brava-gente-brasileira/home/quem-somos?authuser=0)
@@ -39,34 +42,55 @@ Esta categoria concentra-se na pesquisa de árvores genealógicas, linhagens fam
 - [SlaveSocieties.org](https://www.slavesocieties.org/documentsearch)
 - [Projeto Resgate - Acervo](https://resgate.bn.gov.br/docreader/docmulti.aspx?bib=resgate&pagfis=)
 
-### Genealogia Regional no Brasil 🇧🇷
+</details>
+
+
+
+<details>
+
+<summary> Genealogia Regional no Brasil 🇧🇷</summary>
+
 - [Genealogia Paulistana](http://www.arvore.net.br/Paulistana/)
 - [Genealogia Pernambucana](https://www.genealogiapernambucana.com.br/default.asp)
 - [Arquivo Público do Estado de Santa Catarina](https://acervo.arquivopublico.sc.gov.br/index.php/genealogia)
+  
+</details>
 
-### Pesquisa sobre Imigrantes 🌍
+
+<details>
+  
+<summary>Pesquisa sobre Imigrantes 🌍</summary>
+
 - [Museu da Imigração - São Paulo](https://museudaimigracao.org.br/)
 - [Antepassados - Consulado Alemão no Brasil](https://brasil.diplo.de/br-pt/servicos/nacionalidade/antepassados/2602086?openAccordionId=item-2602088-3-panel)
 - [Biblioteca Genealogica de Lisboa - Portugal](https://biblioteca-genealogica-lisboa.org/)
 - [Antenati - Itália](https://antenati.cultura.gov.it/?lang=pt-pt)
 - [CISEI - Imigração Italiana](http://www.ciseionline.it/2012/index.asp)
 
-### Plataformas de Pesquisa e Indexadores 💻
+</details>
+
+
+<details>
+
+<summary> Plataformas de Pesquisa e Indexadores 💻</summary>
+
 - [FamilySearch](https://www.familysearch.org/)
 - [Geneanet](https://pt.geneanet.org/)
 - [MyHeritage](https://www.myheritage.com.br/)
 - [Arvore.net](http://www.arvore.net.br/)
 
-### Comunidades e Grupos de Discussão 👥
+</details>
+
+<details>
+
+<summary> Comunidades e Grupos de Discussão 👥</summery>
+  
 - [Genealogias do Sul do Brasil](https://www.facebook.com/groups/410651023032958/?locale=pt_BR)
 - [Genealogia BR](https://www.facebook.com/groups/GenealogiaBr/)
 
+</details>
+
 ---
-
-
-
-
-
 
 
 ## Redes Sociais 🌐 <a name="redes_sociais"></a>
