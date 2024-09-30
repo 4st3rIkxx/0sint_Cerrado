@@ -19,6 +19,7 @@ O OSINT Cerrado é mais um repositório colaborativo dedicado à coleta e análi
   - [Mobilidade Urbana e Transporte Público](#mobilidade-urbana-e-transporte-publico)
 - [Turismo](#turismo)
   - [Pontos Turísticos](#pontos)
+- [Banco de imagens](#images)
 - [Updates](#updates)
 - [Créditos](#creditos)
 ---
@@ -335,6 +336,17 @@ Lista dos pontos turísticos do Brasil.
 
 </details>
 
+---
+
+### Banco de Imagens 🖼️📷 <a name="images"></a>
+Esta categoria oferece acesso a banco de imagens que permitem encontrar, verificar e analisar imagens disponíveis na internet. 
+
+- [Pulsar Imagens](https://www.pulsarimagens.com.br/)
+- [BambooStock](https://bamboostock.net/)
+- [IBR Stock](https://www.ibrstock.com/)
+- [Brasil com S](https://www.brasilcoms.com.br/)
+- [Banco de Imagens - Porto Alegre](https://bancodeimagens.portoalegre.rs.gov.br/)
+  
 ---
 
 ## Updates 🔄 <a name="updates"></a>
