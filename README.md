@@ -194,17 +194,58 @@ Lista das principais e mais populares redes sociais utilizadas atualmente no Bra
 
 ---
 
-## Mapas 🌍 <a name="mapas"></a>
+<summary>Mapas 🌍</summary>
+
+### Mapas 🌍 <a name="mapas"></a>
+
+Esta categoria reúne ferramentas de mapas online para explorar geolocalização, clima, atividades ao ar livre e informações geoespaciais, úteis para diversas finalidades de pesquisa e investigação.
+
+<details>
+<summary>Clima e Condições Atmosféricas 🌤️</summary>
+
 - [Windy](https://www.windy.com/)
 - [ClimateTrace](https://climatetrace.org/)
+
+</details>
+
+<details>
+<summary>Trilhas e Atividades ao Ar Livre 🥾</summary>
+
 - [AllTrails](https://www.alltrails.com/)
-- [GEOINT](https://cse.google.com/cse?cx=015328649639895072395:sbv3zyxzmji#gsc.tab=0)
 - [STRAVA MAPS](https://www.strava.com/maps/)
+
+</details>
+
+<details>
+<summary>Mapeamento Geoespacial e Imagens de Rua 🗺️</summary>
+
+- [GEOINT](https://cse.google.com/cse?cx=015328649639895072395:sbv3zyxzmji#gsc.tab=0)
 - [Yandex Maps](https://yandex.com/maps/?ll=10.854186%2C49.182076&z=4)
 - [Mapillary](https://www.mapillary.com/)
+
+</details>
+
+<details>
+<summary>Mapas em Tempo Real e Situações de Emergência 🚨</summary>
+
 - [LIVE UAMAP](https://brazil.liveuamap.com/)
+
+</details>
+
+<details>
+<summary>Mapas Colaborativos e de Fonte Aberta 🗺️</summary>
+
 - [Open Street Map](https://www.openstreetmap.org/)
+
+</details>
+
+<details>
+<summary>Mapas de Frequências de Rádio 📻</summary>
+
 - [Radio Garden](https://radio.garden/)
+
+</details>
+
 
 
 ## Infraestrutura de Transporte <a name="infraestrutura-de-transporte"></a>
