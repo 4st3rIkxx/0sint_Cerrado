@@ -341,7 +341,10 @@ Encontre aqui links úteis para monitorar o transporte público nas principais c
 - [Moovit - Transporte Público no Brasil](https://moovitapp.com/index/pt-br/transporte_p%C3%BAblico-Brazil)
 - [Metrô de São Paulo](https://www.metro.sp.gov.br/)
 - [Companhia Paulista de Trens Metropolitanos (CPTM)](https://www.cptm.sp.gov.br/)
+
 </details>
+
+---
 
 ## Turismo ✈️ 🚢 <a name="turismo"></a>
 #### Principais pontos turísticos do Brasil
