@@ -10,8 +10,7 @@ O OSINT Cerrado é mais um repositório colaborativo dedicado à coleta e análi
 ## Sumário
 
 - [Genealogia](#genealogia)
-- [Redes Sociais](#redes_sociais)
-  - [Redes sociais Brasil](#rsb)
+
 - [Empresas](#empresas)
 - [Mapas](#mapas)
 - [Infraestrutura de Transporte](#infraestrutura-de-transporte)
@@ -91,66 +90,6 @@ Esta categoria concentra-se na pesquisa de árvores genealógicas, linhagens fam
 </details>
 
 ---
-
-
-## Redes Sociais 🌐 <a name="redes_sociais"></a>
-#### Principais redes sociais utilizadas no Brasil
-
-Lista das principais e mais populares redes sociais utilizadas atualmente no Brasil.
-<details>
-  <summary>Lista de Redes Sociais</summary>
-
-| Rede Social          | Descrição                                              | Tipo de Uso                        | Público-Alvo                  |
-|----------------------|--------------------------------------------------------|------------------------------------|-------------------------------|
-| **WhatsApp**          | Aplicativo de mensagens instantâneas                   | Comunicação, Grupos, Negócios      | Geral                         |
-| **Instagram**         | Rede de compartilhamento de fotos e vídeos             | Entretenimento, Marketing, Vendas  | Jovens e Adultos              |
-| **Facebook**          | Rede social de compartilhamento de conteúdo            | Notícias, Grupos, Comunicação      | Adultos e Idosos              |
-| **TikTok**            | Plataforma de vídeos curtos e entretenimento           | Entretenimento, Marketing, Criadores | Jovens e Adolescentes        |
-| **YouTube**           | Plataforma de vídeos e streaming                       | Educação, Entretenimento, Negócios | Geral                         |
-| **Twitter (X)**       | Rede de microblogging                                  | Notícias, Discussões, Debates      | Jornalistas, Políticos, Público Geral |
-| **LinkedIn**          | Rede profissional de networking                        | Networking, Recrutamento, Negócios | Profissionais e Executivos    |
-| **Telegram**          | Aplicativo de mensagens instantâneas                   | Grupos, Comunicação, Conteúdo      | Jovens, Adultos, Tecnologia   |
-| **Pinterest**         | Plataforma de compartilhamento de ideias visuais       | Inspiração, Negócios, Hobbies      | Criativos, Profissionais      |
-| **Kwai**              | Plataforma de vídeos curtos, semelhante ao TikTok      | Entretenimento, Vídeos virais      | Jovens e Adultos              |
-| **Snapchat**          | Aplicativo de mensagens com foco em fotos e vídeos curtos | Entretenimento, Comunicação      | Adolescentes e Jovens         |
-| **Twitch**            | Plataforma de streaming ao vivo, principalmente de games | Streaming, Entretenimento        | Gamers, Jovens                |
-
-</details>
-
-<details>
-  <summary>Redes Sociais - Buscas </summary>
-
-## Facebook, Instagram, TikTok, Linkedin  
-- [Search People](https://freepeoplesearchtool.com/#gsc.tab=0)
-- [Linkedin data extractor](https://ollie-boyd.github.io/Linkedin-post-timestamp-extractor/)
-- [Facebook ID](https://lookup-id.com/)
-- [Comment Picker - Instagram](https://commentpicker.com/instagram-username.php)
-- [Face Checker](https://facecheck.id/pt)
-- [HighSocial - TikTok](https://www.highsocial.com/pt-br/find-tiktok-user-id/)
-- [TikTok data extractor](https://bellingcat.github.io/tiktok-timestamp/)
-- [TikTok-Trends](https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?from=001114)
-- [Kik-Usernames](https://kikusernames.com/country/BR?page=1)
-
-## Telegram
-- [Telegago](https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg#gsc.tab=0)
-- [Telegram Search Engine](https://xtea.io/ts_en.html#gsc.tab=0)
-- [Telegram Store](https://pt.telegram-store.com/)
-- [TelegramDB](https://www.telegramdb.org/)
-- [Telegram Channels](https://telegramchannels.me/)
-- [TGRAM Search](https://pt.tgramsearch.com/)
-- [TG-ME](https://www.tg-me.com/br)
-- [Universal Bot](https://t.me/UniversalSearchEasyBot)
-
-## WhatsApp
-- [Grupos de Whatts](https://www.gruposdewhatss.com.br/)
-- [Link de Grupo](https://linkdegrupo.com.br/)
-- [Whats de Grupo](https://whatsdegrupo.com/)
-
-</details>
-
----
-
-
 
 ### Empresas & Negócios 🏢 <a name="empresas"></a>
 
