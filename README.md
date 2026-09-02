@@ -100,6 +100,7 @@ Esta categoria concentra-se na pesquisa de árvores genealógicas, linhagens fam
 - [Econodata](https://www.econodata.com.br/empresas/todo-brasil)
 - [CNPJÁ](https://cnpja.com/)
 - [Consulta CNPJ](https://consultacnpj.com/)
+- [Company Records](https://records.knowyourcustomer.com/pt-br/coverage/brazil) (Know Your Customer Limited): busca gratuita, 149 jurisdições; relatório e documentos oficiais obtidos ao vivo do registro, a partir de US$ 19.
 
 </details>
 
